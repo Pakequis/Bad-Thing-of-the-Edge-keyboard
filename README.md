@@ -44,6 +44,7 @@ Files here are from the second version of the boards, with corrections made to t
 The firmware was made in [VSCode](https://code.visualstudio.com/) with the [PlatformIO](https://platformio.org/) extension and the [Arduino-Pico core](https://github.com/earlephilhower/arduino-pico), using [Adafruit's TinyUSB library](https://github.com/adafruit/Adafruit_TinyUSB_Arduino). Core 0 is responsible for the keyboard and Core 1 for the LED effects. It was a bit over the top, but I wanted to test this functionality.
 
 ![Board Prototype](Images/prototype-board.jpg)
+
 The keyboard part was made using the [example from Adafruit's TinyUSB library](https://github.com/adafruit/Adafruit_TinyUSB_Arduino/blob/master/examples/HID/hid_boot_keyboard/hid_boot_keyboard.ino).
 
 The LED effects in this first version are:
