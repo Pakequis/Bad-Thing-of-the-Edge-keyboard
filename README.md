@@ -31,6 +31,7 @@ I used two-piece clear keycaps for the keys ([bought on Aliexpress](https://s.cl
 Bars for the LEDs were made into the panel board with keep out areas on the top and bottom copper layers and the bottom solder mask layer. When the LEDs on the main board turn on, the light is scattered on these bars. I used red LEDs to contrast with the black solder mask and match the horror theme of the keyboard.
 
 The stack:
+
 ![Boards](Images/prototype-leds.jpg)
 
 Mechanical keys are Cherry MX type, but in the prototype I took the keys from a old PTZ camera controller.
