@@ -22,8 +22,10 @@ The boards were developed in kicad 7.0. There are two PCBs, one for the keyboard
 
 ![Boards](Images/boards.jpg)
 
-External libraries used in the project::
+External libraries used in the project:
+
 [Key Switchs library for Kicad by Rafael Silva.](https://github.com/kiswitch/kiswitch)
+
 [Raspberry Pi Pico by Nicolò Carandini.](https://github.com/ncarandini/KiCad-RP-Pico)
 
 I used two-piece clear keycaps for the keys ([bought on Aliexpress](https://s.click.aliexpress.com/e/_DEuJarX) - **Affiliate link!**). I printed the button images, cut them out and put them inside the keycaps.
