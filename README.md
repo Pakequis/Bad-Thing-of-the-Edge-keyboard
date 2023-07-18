@@ -14,7 +14,7 @@ The keyboard layout was made for my left hand with the main four fingers on the 
 It should work for Diablo 4 (the action keys are mostly in the same positions), but I haven't tested it yet (**$$$**). For other games, you need to change the buttons table in the firmware.
 
 ## Demo video:
-[![Demo Video](https://youtu.be/LNERu-DqztY/default.jpg)](https://youtu.be/LNERu-DqztY)
+[![Demo Video](https://img.youtube.com/vi/LNERu-DqztY/0.jpg)](https://www.youtube.com/watch?v=LNERu-DqztY)
 
 ## Hardware:
 
@@ -22,8 +22,10 @@ The boards were developed in kicad 7.0. There are two PCBs, one for the keyboard
 
 ![Boards](Images/boards.jpg)
 
-External libraries used in the project::
+External libraries used in the project:
+
 [Key Switchs library for Kicad by Rafael Silva.](https://github.com/kiswitch/kiswitch)
+
 [Raspberry Pi Pico by Nicolò Carandini.](https://github.com/ncarandini/KiCad-RP-Pico)
 
 I used two-piece clear keycaps for the keys ([bought on Aliexpress](https://s.click.aliexpress.com/e/_DEuJarX) - **Affiliate link!**). I printed the button images, cut them out and put them inside the keycaps.
@@ -31,6 +33,7 @@ I used two-piece clear keycaps for the keys ([bought on Aliexpress](https://s.cl
 Bars for the LEDs were made into the panel board with keep out areas on the top and bottom copper layers and the bottom solder mask layer. When the LEDs on the main board turn on, the light is scattered on these bars. I used red LEDs to contrast with the black solder mask and match the horror theme of the keyboard.
 
 The stack:
+
 ![Boards](Images/prototype-leds.jpg)
 
 Mechanical keys are Cherry MX type, but in the prototype I took the keys from a old PTZ camera controller.
@@ -44,6 +47,7 @@ Files here are from the second version of the boards, with corrections made to t
 The firmware was made in [VSCode](https://code.visualstudio.com/) with the [PlatformIO](https://platformio.org/) extension and the [Arduino-Pico core](https://github.com/earlephilhower/arduino-pico), using [Adafruit's TinyUSB library](https://github.com/adafruit/Adafruit_TinyUSB_Arduino). Core 0 is responsible for the keyboard and Core 1 for the LED effects. It was a bit over the top, but I wanted to test this functionality.
 
 ![Board Prototype](Images/prototype-board.jpg)
+
 The keyboard part was made using the [example from Adafruit's TinyUSB library](https://github.com/adafruit/Adafruit_TinyUSB_Arduino/blob/master/examples/HID/hid_boot_keyboard/hid_boot_keyboard.ino).
 
 The LED effects in this first version are:
