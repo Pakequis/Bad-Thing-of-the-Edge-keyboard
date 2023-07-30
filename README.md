@@ -42,6 +42,8 @@ Files here are from the second version of the boards, with corrections made to t
 
 ![LED bar área](Images/prototype-panel-correction.jpg)
 
+Second board revision sponsored by [PCBWay](https://www.pcbway.com).
+
 ## Firmware:
 
 The firmware was made in [VSCode](https://code.visualstudio.com/) with the [PlatformIO](https://platformio.org/) extension and the [Arduino-Pico core](https://github.com/earlephilhower/arduino-pico), using [Adafruit's TinyUSB library](https://github.com/adafruit/Adafruit_TinyUSB_Arduino). Core 0 is responsible for the keyboard and Core 1 for the LED effects. It was a bit over the top, but I wanted to test this functionality.

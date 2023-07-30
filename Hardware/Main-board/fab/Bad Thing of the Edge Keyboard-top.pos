@@ -1,0 +1,59 @@
+### Footprint positions - created on Sun Jul 30 16:01:31 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                             PosX       PosY       Rot  Side
+D1        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    60.2648   -92.8370   90.0000  top
+D2        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    60.2648  -108.0770   90.0000  top
+D3        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    60.2648  -138.5570   90.0000  top
+D4        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    60.2648  -122.2920   90.0000  top
+D5        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    93.2039  -126.8730    0.0000  top
+D6        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   106.1579  -126.8730    0.0000  top
+D7        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   131.5489  -126.8730    0.0000  top
+D8        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   118.6039  -126.8730    0.0000  top
+D9        LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   124.4369   -31.4499  180.0000  top
+D10       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   144.7659   -31.4499  180.0000  top
+D11       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    76.6939   -31.4499  180.0000  top
+D12       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    99.2909   -31.4499  180.0000  top
+D13       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   164.4048  -122.2920   90.0000  top
+D14       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   164.4048  -138.5570   90.0000  top
+D15       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   164.4048   -92.8370   90.0000  top
+D16       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   164.4048  -108.0770   90.0000  top
+Q1        BSS138    SOT-23                                           64.8368  -127.0660  180.0000  top
+Q2        BSS138    SOT-23                                          107.2540  -132.3340   90.0000  top
+Q3        BSS138    SOT-23                                          130.1425   -83.8985   90.0000  top
+Q4        BSS138    SOT-23                                          163.3888  -146.4310   90.0000  top
+R1        47R       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      60.4520  -144.2720   90.0000  top
+R2        100R      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      65.0400  -134.6200    0.0000  top
+R3        10k       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      65.0400  -131.0640  180.0000  top
+R4        47R       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      93.2020  -130.8100    0.0000  top
+R5        100R      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     103.1240  -132.3500   90.0000  top
+R6        10k       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      99.5680  -132.3500  -90.0000  top
+R7        47R       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      70.0899   -31.4499    0.0000  top
+R8        100R      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     130.3180   -91.9480  180.0000  top
+R9        10k       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     130.3180   -88.3920    0.0000  top
+R10       47R       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     160.5948  -129.4290   90.0000  top
+R11       100R      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     163.3888  -154.4320  180.0000  top
+R12       10k       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     163.3380  -150.8760    0.0000  top
+SW1       SW_Push   SW_Cherry_MX_1.00u_PCB                          114.3668   -42.0370    0.0000  top
+SW2       SW_Push   SW_Cherry_MX_1.00u_PCB                           94.0468   -42.0370    0.0000  top
+SW3       SW_Push   SW_Cherry_MX_1.00u_PCB                           94.0468   -62.8650    0.0000  top
+SW4       SW_Push   SW_Cherry_MX_1.00u_PCB                          114.3668   -62.8650    0.0000  top
+SW5       SW_Push   SW_Cherry_MX_1.00u_PCB                           73.7268   -42.0370    0.0000  top
+SW6       SW_Push   SW_Cherry_MX_1.00u_PCB                           73.7268   -62.8650    0.0000  top
+SW7       SW_Push   SW_Cherry_MX_1.00u_PCB                          150.1808  -154.5590    0.0000  top
+SW8       SW_Push   SW_Cherry_MX_1.00u_PCB                          150.1808  -133.4770    0.0000  top
+SW9       SW_Push   SW_Cherry_MX_1.00u_PCB                          150.1808  -113.1570    0.0000  top
+SW10      SW_Push   SW_Cherry_MX_1.00u_PCB                          150.1808   -92.3290    0.0000  top
+SW11      SW_Push   SW_Cherry_MX_1.00u_PCB                           80.5848  -123.3170    0.0000  top
+SW12      SW_Push   SW_Cherry_MX_1.00u_PCB                           80.5848  -102.9970    0.0000  top
+SW13      SW_Push   SW_Cherry_MX_1.00u_PCB                           80.5848   -82.6770    0.0000  top
+SW14      SW_Push   SW_Cherry_MX_1.00u_PCB                          103.4448  -102.9970    0.0000  top
+SW15      SW_Push   SW_Cherry_MX_1.00u_PCB                          114.3668   -82.7579    0.0000  top
+SW16      SW_Push   SW_Cherry_MX_1.00u_PCB                          126.3048  -102.9970    0.0000  top
+SW17      SW_Push   SW_Cherry_MX_1.00u_PCB                          134.6868   -42.0370    0.0000  top
+SW18      SW_Push   SW_Cherry_MX_1.00u_PCB                          134.6868   -62.8650    0.0000  top
+SW19      SW_Push   SW_Cherry_MX_1.00u_PCB                          155.0068   -42.0370    0.0000  top
+SW20      SW_Push   SW_Cherry_MX_1.00u_PCB                          155.0068   -62.8650    0.0000  top
+U1        Pico      RPi_Pico_SMD_TH                                 104.6339  -152.3539   90.0000  top
+## End

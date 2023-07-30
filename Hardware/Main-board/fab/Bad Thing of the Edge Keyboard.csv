@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R7,R1,R4,R10";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"47R";;;
+2;"SW14,SW10,SW16,SW13,SW5,SW7,SW9,SW6,SW11,SW20,SW2,SW8,SW15,SW1,SW17,SW18,SW4,SW3,SW12,SW19";"SW_Cherry_MX_1.00u_PCB";20;"SW_Push";;;
+3;"J3,J2,J6,J4,J1,J5";"MountingHole_3.2mm_M3_Pad";6;"Conn_01x01_Pin";;;
+4;"R2,R5,R8,R11";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"100R";;;
+5;"D15,D6,D8,D16,D2,D4,D10,D13,D1,D5,D3,D7,D11,D14,D12,D9";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";16;"LED";;;
+6;"Q4,Q2,Q3,Q1";"SOT-23";4;"BSS138";;;
+7;"R9,R3,R6,R12";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"10k";;;
+8;"U1";"RPi_Pico_SMD_TH";1;"Pico";;;
