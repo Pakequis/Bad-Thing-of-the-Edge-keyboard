@@ -64,7 +64,7 @@ One of the keys - the first one on the top - was exclusive to change the effect 
 ## Bad Thing of What?
 The name comes from a famous Brazilian case of haunted house and exorcism that happened in 1953. On one of the exorcism nights, Father Pedro Cintra asked in Latin: **"Praecipio ibi ut dicas qui sis tu"** ("I command you to tell me who you are"). A monstrous voice then replied in Portuguese: **"Eu sou o Diabo!"** ("I am the Devil!").
 
-But people didn't pronounce that name and called the entity just **"Coisa Ruim"** (Bad Thing) when the rumors spread. They added part of the name of the city where the case took place, **Borda da Mata** (something like "Edge of the Woods"), and started to call it Coisa Ruim da Borda (Bad Thing of the Edge).
+But people didn't pronounce that name and called the entity just **"Coisa Ruim"** ("Bad Thing", but "Evil Thing" would be better ) when the rumors spread. They added part of the name of the city where the case took place, **Borda da Mata** (something like "Edge of the Woods"), and started to call it Coisa Ruim da Borda (Bad Thing of the Edge).
 
 
 I found an [article in a magazine of the time with a picture of the haunted house](http://memoria.bn.br/DocReader/DocReader.aspx?bib=003581&pagfis=86382) (in Portuguese - page 102).
