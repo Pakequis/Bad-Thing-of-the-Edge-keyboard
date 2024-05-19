@@ -103,10 +103,10 @@ int key_pins[] = { D4, D1, D7, D19, D17, D5, D2, D3, D18, D14,
                   D26, D21, D13, D27, D22, D20, D12, D6, D10, D9 };
 
 /* keycodes for Diablo III Game */
-uint8_t hidcode[] = { HID_KEY_NONE, HID_KEY_PRINT_SCREEN, HID_KEY_Z, HID_KEY_O, HID_KEY_Y,
-                      HID_KEY_ENTER, HID_KEY_SPACE, HID_KEY_G, HID_KEY_F, HID_KEY_S, 
+uint8_t hidcode[] = { HID_KEY_NONE, HID_KEY_PRINT_SCREEN, HID_KEY_A, HID_KEY_O, HID_KEY_Y,
+                      HID_KEY_ENTER, HID_KEY_ALT_LEFT, HID_KEY_Z, HID_KEY_F, HID_KEY_S, 
                       HID_KEY_ESCAPE, HID_KEY_I, HID_KEY_M, HID_KEY_SHIFT_LEFT, HID_KEY_2, 
-                      HID_KEY_3, HID_KEY_4, HID_KEY_1, HID_KEY_ALT_LEFT, HID_KEY_Q
+                      HID_KEY_3, HID_KEY_4, HID_KEY_1, HID_KEY_SPACE, HID_KEY_Q
                     };
 
 int led_count = 0;

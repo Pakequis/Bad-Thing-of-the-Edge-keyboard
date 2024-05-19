@@ -11,7 +11,9 @@ Sometimes I play **Diablo 3** on my small 7-inch laptop and have difficulty with
 
 The keyboard layout was made for my left hand with the main four fingers on the skills buttons and the thumb on the potion button.
 
-It should work for Diablo 4 (the action keys are mostly in the same positions), but I haven't tested it yet (**$$$**). For other games, you need to change the buttons table in the firmware.
+~~It should work for Diablo 4 (the action keys are mostly in the same positions), but I haven't tested it yet (**$$$**). For other games, you need to change the buttons table in the firmware.~~
+
+[Update 05/19/2024] I remapped the keys to work in both Diablo 3 and Diablo 4.
 
 ## Demo video:
 [![Demo Video](https://img.youtube.com/vi/LNERu-DqztY/0.jpg)](https://www.youtube.com/watch?v=LNERu-DqztY)
