@@ -1,5 +1,6 @@
 # **Bad Thing of the Edge keyboard**
 A mechanical gamer keyboard for left hand with Raspberry Pi Pico.
+
 [![OSHWA Mark](Images/certification-mark-BR000017-wide.png)](https://certification.oshwa.org/br000017.html)
 
 ![Keyboard prototype](Images/keyboard-prototype.jpg)
